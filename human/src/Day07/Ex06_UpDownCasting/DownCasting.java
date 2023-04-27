@@ -1,5 +1,5 @@
 package Day07.Ex06_UpDownCasting;
-
+   
 public class DownCasting {
 	
 	public static void main(String[] args) {

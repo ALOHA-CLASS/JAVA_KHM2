@@ -9,6 +9,7 @@ public class Test {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("입력 : ");
+		
 		int num = sc.nextInt();
 		
 		

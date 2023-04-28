@@ -30,6 +30,7 @@ public class Raichu extends Pikachu {
 		return "볼트체인지";
 	}
 	
+	
 	public String cAttack() {
 		if( level >= 40 )
 			return "아이언테일";
